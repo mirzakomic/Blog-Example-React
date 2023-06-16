@@ -15,7 +15,7 @@ const FirstSection = () => {
                 
 
                 <article className="flex-article">
-                    <img src="./src/assets/img/globe-line.svg"/>
+                    <img src="./img/globe-line.svg"/>
                     <div className="column">
                         <h5>Brand Identity</h5>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates sapiente porro recusandae, nemo consequuntur cumque libero culpa incidunt optio aut.</p>
@@ -23,7 +23,7 @@ const FirstSection = () => {
                 </article>
 
                 <article className="flex-article">
-                    <img src="./src/assets/img/megaphone.svg"/>
+                    <img src="./img/megaphone.svg"/>
                     <div className="column">
                         <h5>Brand Identity</h5>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates sapiente porro recusandae, nemo consequuntur cumque libero culpa incidunt optio aut.</p>
@@ -31,7 +31,7 @@ const FirstSection = () => {
                 </article>
 
                 <article className="flex-article">
-                    <img src="./src/assets/img/object-select.svg"/>
+                    <img src="./img/object-select.svg"/>
                     <div className="column">
                         <h5>Brand Identity</h5>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates sapiente porro recusandae, nemo consequuntur cumque libero culpa incidunt optio aut.</p>
