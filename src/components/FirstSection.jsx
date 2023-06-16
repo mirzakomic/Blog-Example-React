@@ -6,7 +6,7 @@ const FirstSection = () => {
             <section className="container_articles">
 
                 <article className="flex-article">
-                    <img src="./src/assets/img/brush.svg"/>
+                    <img src="./img/brush.svg"/>
                     <div className="column">
                         <h5>Brand Identity</h5>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates sapiente porro recusandae, nemo consequuntur cumque libero culpa incidunt optio aut.</p>
